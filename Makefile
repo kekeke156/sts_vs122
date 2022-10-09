@@ -23,4 +23,4 @@ force-rebuild:
 
 .PHONY: clean
 clean:
-	rm -f passwd.txt url.txt qr.png .envhash
+	rm -f passwd.txt url.txt .envhash
